@@ -14,14 +14,6 @@ This project analyzes the Olist e-commerce dataset to surface actionable busines
 | `olist.sql` | SQL queries used to explore, clean, and analyze the Olist sales dataset |
 | `Olist E-Commerce Data Analysis.pptx` | Presentation summarizing the analysis, findings, and business recommendations |
 
-## 📊 Key Insights
-
-*(Add 2–3 bullet points here — e.g. top-selling product categories, customer purchase patterns, delivery time impact on reviews, regional sales trends, etc. — pulled from your presentation.)*
-
-## 🖼️ Preview
-
-*(Add a screenshot from the presentation or dashboard here so visitors can see the output without opening the .pptx — e.g. `![insights preview](path/to/screenshot.png)`)*
-
 ## 🚀 How to View
 
 - **SQL queries:** Open `olist.sql` in any text editor or SQL client to see the analysis logic.
